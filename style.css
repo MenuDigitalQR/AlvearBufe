@@ -1,0 +1,35 @@
+body{
+    min-height: 100vh;
+}
+.glass{
+    padding: 0em;
+    width: 100%;
+    border-radius: 10px;
+    /* background: rgba(27, 7, 0, 0.795);*/
+    background: rgba(0, 0, 0, 0.651);
+    box-shadow: 0 8px 32px 0 rgb(0, 0, 0);
+    backdrop-filter: blur( 2px );
+    border: 1px solid rgba(255, 255 ,255, 0.18);
+  }
+  
+  body{
+    background-image: url("fotos/Fondo3.jpg");
+    background-position: center center;
+    background-size: 83vh;
+  }
+  #boton{
+    height: 7.5vh; 
+    width: 80%;
+    font-size: 2.7vh;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+  }
+  .row{
+    margin-bottom: 3vh;
+  }
+  h1{
+    color: white;
+  }
+  #showData{
+  }
