@@ -1,6 +1,9 @@
 body{
     min-height: 100vh;
 }
+.conti{
+  padding: 0 3vh;
+}
 .glass{
     padding: 0em;
     width: 100%;
